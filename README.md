@@ -12,12 +12,12 @@ Lesson goals. Why this matters. Who do it. How hard it is.[^1]
 
 ## Requirements
 
-- Tropy
+- Tropy >= 1.15
 - VS Code
 - Node.js
 - Github Account
 
-## Mangaging research documents with Tropy
+## Managing research documents with Tropy
 
 - Add images
 - Group images into items
